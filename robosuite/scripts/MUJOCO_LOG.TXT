@@ -1,0 +1,12 @@
+Tue Jan  9 19:58:53 2024
+WARNING: mixed solref format, replacing with default
+
+Tue Jan  9 19:58:53 2024
+WARNING: mixed solref format, replacing with default
+
+Tue Jan  9 20:00:47 2024
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 1253M bytes. Time = 4.0220.
+
+Tue Jan  9 20:00:47 2024
+WARNING: Insufficient arena memory for the number of constraints generated. Increase arena memory allocation above 1253M bytes. Time = 4.0220.
+
